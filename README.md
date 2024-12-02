@@ -2,8 +2,8 @@
 
 This repository contains two Google Colab notebooks demonstrating various dimensionality reduction techniques:
 
-- [Notebook 1](https://colab.research.google.com/drive/1KQTaoqJNpJEywXil3EjTofUxy1XPExne)
-- [Notebook 2](https://colab.research.google.com/drive/1u8J6A_FbdEAs0drBTyvDEU-sZLQEiaDI)
+- [Tabular](https://colab.research.google.com/drive/1KQTaoqJNpJEywXil3EjTofUxy1XPExne)
+- [Image](https://colab.research.google.com/drive/1u8J6A_FbdEAs0drBTyvDEU-sZLQEiaDI)
 
 ### Techniques Covered
 
